@@ -32,4 +32,5 @@ Quarterly performance insights guide seasonal strategies and ensure readiness fo
 Overall, the dashboard provides actionable insights that support business growth, improve efficiency, and enhance customer satisfaction.
 
 # dashboard 
-file:///C:/Users/Tanu%20Yadav/OneDrive/Pictures/Screenshots/Screenshot%202025-02-05%20164330.png
+![Screenshot 2025-02-05 164330](https://github.com/user-attachments/assets/3a1543bc-946f-4d79-a369-de99e1dc1ee7)
+
